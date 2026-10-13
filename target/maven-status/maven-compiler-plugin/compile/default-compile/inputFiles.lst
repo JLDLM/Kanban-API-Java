@@ -1,0 +1,12 @@
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\config\AuthManagerConfig.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\config\SecurityConfig.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\controller\AuthController.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\controller\KanbanController.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\dto\Dtos.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\exception\ApiExceptionHandler.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\KambaApiJavaApplication.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\model\User.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\repository\UserRepository.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\security\JwtFilter.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\security\JwtService.java
+C:\Users\CAPROM\IdeaProjects\Kamba-Api-Java\src\main\java\com\example\kambaapijava\service\UserDetailsServiceImpl.java
